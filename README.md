@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p align="justify">
-  Este proyecto consta de una aplicación para Android que permite jugar al clásico juego de Piedra, Papel o Tijera de forma interactiva y dinámica. Su diseño intuitivo y atractivo ofrece una experiencia fluida, permitiendo a los usuarios enfrentarse a la inteligencia artificial.
+  Este proyecto consta de una aplicación que permite jugar al clásico juego de Piedra, Papel o Tijera de forma interactiva y dinámica. Su diseño intuitivo y atractivo ofrece una experiencia fluida, permitiendo a los usuarios enfrentarse a la inteligencia artificial.
 </p>
 </div>                                                                                      
 </td>
