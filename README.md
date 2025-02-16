@@ -53,7 +53,7 @@
 <a href="https://github.com/Kqtz/FilmingApp" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p align="justify">Este proyecto consta de una aplicación para Android que permite gestionar información sobre películas y series de forma sencilla y organizada. Su diseño intuitivo y atractivo facilita la navegación, permitiendo a los usuarios visualizar títulos junto con sus respectivas imágenes y detalles.</p>
+<p align="justify">Este proyecto consta de una aplicación para Android que permite gestionar información sobre películas y series. Su diseño intuitivo y atractivo facilita la navegación, permitiendo a los usuarios visualizar títulos junto con sus respectivas imágenes y detalles.</p>
 </div>                                                             
 </td>  
 </tr>
